@@ -1,0 +1,21 @@
+Hamming Loss: 0.0050±0.0027
+Subset Accuracy: 0.9064±0.0320
+Example-Based Precision: NaN±NaN
+Example-Based Recall: 0.9428±0.0201
+Example-Based F Measure: NaN±NaN
+Example-Based Accuracy: 0.9411±0.0203
+Micro-averaged Precision: 0.9919±0.0090
+Micro-averaged Recall: 0.9014±0.0497
+Micro-averaged F-Measure: 0.9438±0.0288
+Macro-averaged Precision: NaN±NaN
+Macro-averaged Recall: NaN±NaN
+Macro-averaged F-Measure: NaN±NaN
+One-Error: 0.0136±0.0158
+Average Precision: 0.9875±0.0103
+Is-Error: 0.0287±0.0208
+Error Set Size: 0.3099±0.2936
+Coverage: 0.5514±0.3093
+Ranking Loss: 0.0060±0.0058
+Mean Average Precision: NaN±NaN
+Micro-averaged AUC: 0.9911±0.0091
+Macro-averaged AUC: NaN±NaN

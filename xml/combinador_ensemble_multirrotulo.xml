@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<labels xmlns="http://mulan.sourceforge.net/labels">
+   <label name="AVERAGE_RULE"></label>
+   <label name="PRODUCT_RULE"></label>
+   <label name="MAJORITY_VOTING_RULE"></label>
+   <label name="MIN_RULE"></label>
+   <label name="MAX_RULE"></label>
+</labels>
